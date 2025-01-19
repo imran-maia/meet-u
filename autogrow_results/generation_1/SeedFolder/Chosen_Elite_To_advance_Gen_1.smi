@@ -1,0 +1,10 @@
+O=C([N-]C(=O)C(F)(F)F)c1[c][c]/c(=N/C(=O)C(F)(F)F)[nH][c]1	ligend_89	ligend_89	ligend_89__3	-8.3	29.471444062028986
+[NH-]C(=O)c1[c][c]c(N[C][C]2[C][C]N[C][C]2)[nH+][c]1	ligend_1	ligend_1	ligend_1__1	-8.4	33.742841040188345
+N=c1[c][c]c(C(=O)N[C][C]c2[c][c][c][c][c]2)[c][nH]1	ligend_27	ligend_27	ligend_27__4	-8.3	29.857031243495804
+N=c1[c][c]c(C(=O)N2[C][C][C]C(F)(F)[C]2)[c][nH]1	ligend_76	ligend_76	ligend_76__5	-8.4	35.96871163693537
+[C][C]N1[C][C][C]([C][N-]C(=O)c2[c][c]c(=N)[nH][c]2)[C]1	ligend_17	ligend_17	ligend_17__4	-8.2	32.02513952363031
+N=c1[c][c]c(C(=O)[N-][C][C]N2[C][C]N[C][C]2)[c][nH]1	ligend_48	ligend_48	ligend_48__1	-8.2	30.706220591613576
+O=C1N=C2[C][C]=C(C(F)(F)F)N=C2N=C2N=[C][C]=[C][C]12	ligend_65	ligend_65	ligend_65__1	-8.3	15.016632216593647
+N=c1[c][c]c(C(=O)N[C][C]c2[c][c][c][nH+][c]2)[c][nH]1	ligend_30	ligend_30	ligend_30__4	-8.5	30.652941442786616
+O=C1N[C]([C]2[C][C][C][C][C]2)N=C2N=[C][C]=[C][C]12	ligend_2	ligend_2	ligend_2__3	-8.3	17.96482069688295
+[NH-]C(=O)c1[c][c]/c(=N/[C]2[C][C]N[C][C]2)[nH][c]1	ligend_3	ligend_3	ligend_3__1	-8.2	34.509660261106845

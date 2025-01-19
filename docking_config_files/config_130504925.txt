@@ -1,0 +1,24 @@
+#CONFIGURATION FILE (options not used are commented) 
+
+#INPUT OPTIONS 
+receptor = /home/imran/meet-u/single-dock/4YPX_prot.pdbqt 
+ligand = /home/imran/meet-u/ligends/130504925.pdbqt 
+#flex = [flexible residues in receptor in pdbqt format] 
+
+#SEARCH SPACE CONFIGURATIONS 
+center_x = -22.22717809
+center_y = 40.82374374
+center_z = -5.66712301
+size_x = 30 
+size_y = 30 
+size_z = 30 
+
+#OUTPUT OPTIONS 
+out = /home/imran/meet-u/docking_results/130504925_output.pdbqt
+
+#OTHER OPTIONS 
+num_modes = 5
+#cpu =  
+#exhaustiveness = 
+#energy_range = 
+#seed = 
