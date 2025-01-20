@@ -13,7 +13,8 @@ ligend_preparation    = False
 docking_simulation    = False
 subset_converstion    = False
 autogrow_optimization = False  
-redocking_simulation  = True
+redocking_simulation  = False
+redocking_smile       = True
 
 
 # Target preparation
@@ -43,4 +44,8 @@ if autogrow_optimization == True:
 # Simulate redocking after autogrow optimization
 if redocking_simulation == True:
     subprocess.run(["python", "simulate_redocking.py"])
+
+# Convert docking results subset into simile
+if redocking_smile == True:
+    subprocess.run(["python", "redocking_smile.py"])
 
